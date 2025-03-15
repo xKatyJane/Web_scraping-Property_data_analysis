@@ -31,3 +31,9 @@ The data is saved to a CSV file: Data/Property_data_idealista_20-02-2025.csv. 45
 Details of all the operations performed can be found in the Jupyter Notebook file Notebooks/2_Data_cleaning_and_analysis.ipynb.
 
 The data is formatted to handle missing values, a new column is created (price per square meter) and outliers are removed. A statistical analysis is performed, to identify the distribution of the values, such as mean, median and mode. Univariate and bivariate analysis is performed and plotted, to visualize the distribution. The analysis of this data gives insights into the distribution of apartment prices, prices per square meter and apartment sizes in each neighborhood.
+
+## Python packages used
+
+- **Data scraping**: requests, Beautiful Soup
+- **Data manipulation**: numpy, pandas, scipy
+- **Data visualization**: matplotlib, seaborn
