@@ -8,6 +8,9 @@ In order to use the Beautiful Soup script provided, you need to install requests
 
 ```bash
 pip install requests
+```
+
+```bash
 pip install beautifulsoup4
 ```
 
