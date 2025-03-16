@@ -4,7 +4,7 @@ This project focuses on analysis of rental properties in Barcelona in Python. Th
 
 ## Resources
 
-In order to use the Beautiful Soup script provided, you need to install requests, a library for making HTTP requests, as well as the Beautiful Soup, a web-scraping library.
+In order to use the Beautiful Soup script, you need to install requests, a library for making HTTP requests, as well as the Beautiful Soup, a web-scraping library.
 
 ```bash
 pip install requests
