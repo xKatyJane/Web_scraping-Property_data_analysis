@@ -16,7 +16,9 @@ pip install beautifulsoup4
 
 ## Data Acquisition
 
-The file Web_scraping-Property_data_analysis contains the script used to obtain the data. The code itinerates through all the result pages of rental apartments in Barcelona and accesses each listing page to extract the data. The data obtained are:
+The file Web_scraping-Property_data_analysis contains the script used to obtain the data. This script is based on the Beautiful Soup library, which enables efficient extraction of information from websites. The script itinerates through all the result pages of rental apartments in Barcelona, to identify and extract data based on their HTML tags.
+
+The data obtained are:
 - Title of the listing
 - Price
 - Neighbourhood
